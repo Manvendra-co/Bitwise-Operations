@@ -20,7 +20,7 @@ Right-shift operator
 
 
 
-Left-shift operator
+--Left-shift operator--
 
 It is an operator that shifts the number of bits to the left-side.
 
@@ -35,7 +35,7 @@ Operand is an integer expression on which we apply the left-shift operation.
 n is the number of bits to be shifted.
 
 
-Right-shift operator
+--Right-shift operator--
 
 It is an operator that shifts the number of bits to the right side.
 
